@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any project that is trying to solve real world problems.
 - 📫 How to reach me ... Just DM me https://twitter.com/dkkkkd or reach me via https://dhirajdas.dev
-- As always , Stay Health , Safe and Happy Coding!!!
+- As always , Stay Healthy, Safe and Happy Coding!!!
 
 <!---
 godhiraj-code/godhiraj-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
