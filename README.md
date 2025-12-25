@@ -45,8 +45,8 @@ Please reach out or open a PR! Let's solve the most complex problems in automati
 ---
 
 ## ✍️ Latest Insights from [dhirajdas.dev](https://www.dhirajdas.dev)
-* **[Pytest Mock llm - true fidelity - test AI workflow with 0 cost](https://www.dhirajdas.dev/blog/pytest-mockllm-true-fidelity)
-* **[Elimante Flaky Test in selenium](https://www.dhirajdas.dev/blog/waitless-eliminate-flaky-tests)
+* [Pytest Mock llm - true fidelity - test AI workflow with 0 cost](https://www.dhirajdas.dev/blog/pytest-mockllm-true-fidelity)
+* [Eliminate Flaky Test in selenium](https://www.dhirajdas.dev/blog/waitless-eliminate-flaky-tests)
 * **[Stop Shipping "Zombie Tests": Introducing Project Vandal](https://www.dhirajdas.dev/blog/project-vandal)**
 * **[Why Your Selenium Tests Fail on AI Chatbots (And How to Fix It)](https://www.dhirajdas.dev/blog/selenium-ai-chatbots)**
 * **[Selenium Teleport: Skip Login Screens Forever](https://www.dhirajdas.dev/blog/selenium-teleport)**
