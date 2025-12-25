@@ -60,7 +60,7 @@ Co-author of the **TDCT (Triangle-Density based Clustering Technique)** techniqu
 
 ## ⚡ Connect with Me
 - **Website:** [dhirajdas.dev](https://www.dhirajdas.dev)
-- **LinkedIn:** [Dhiraj Das](https://www.linkedin.com/in/dhiraj-das-614509)
+- **LinkedIn:** [Dhiraj Das](https://www.linkedin.com/in/dhiraj-das-614509168)
 - **Blog:** [Latest Insights](https://www.dhirajdas.dev/blog)
 
 ---
