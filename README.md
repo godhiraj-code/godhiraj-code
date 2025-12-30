@@ -3,6 +3,7 @@
     <td width="30%" align="center">
       <img src="https://github.com/user-attachments/assets/eb11bdf6-ffd0-482a-8385-8745338e5506" width="150" style="border-radius: 15px;" alt="Dhiraj Das">
       <br />
+      <br />
       <b>Dhiraj Das</b><br />
       <sub>Automation Solutions Architect | Intelligent Quality Engineering</sub>
     </td>
@@ -12,11 +13,11 @@
       
       <h3>🏆 Community Recognition</h3>
       <ul>
-        <li><b>Waitless:</b> Featured in <a href="https://pycoders.com/issues/714">PyCoder's Weekly #714</a> & <a href="https://www.libhunt.com/r/waitless">LibHunt</a></li>
-        <li><b>pytest-mockllm:</b> Verified on <a href="https://www.libhunt.com/r/pytest-mockllm">LibHunt</a>
-        <li><b>stealthautomation:</b> Verified on <a href="https://www.libhunt.com/r/stealthautomation">LibHunt</a>
-        <li><b>selenium-teleport:</b> Verified on <a href="https://www.libhunt.com/r/selenium-teleport">LibHunt</a>
-        <li><b>Starlight Protocol:</b> The new standard for <a href="https://www.libhunt.com/r/cba">Constellation Baed Automation</a></li>
+        <li><strong>Waitless:</strong> Featured in <a href="https://pycoders.com/issues/714">PyCoder's Weekly #714</a> & <a href="https://www.libhunt.com/r/waitless">LibHunt</a></li>
+        <li><strong>pytest-mockllm:</strong> Verified on <a href="https://www.libhunt.com/r/pytest-mockllm">LibHunt</a></li>
+        <li><strong>stealthautomation:</strong> Verified on <a href="https://www.libhunt.com/r/stealthautomation">LibHunt</a></li>
+        <li><strong>selenium-teleport:</strong> Verified on <a href="https://www.libhunt.com/r/selenium-teleport">LibHunt</a></li>
+        <li><strong>Starlight Protocol:</strong> The new standard for <a href="https://www.libhunt.com/r/cba">Constellation Based Automation</a></li>
       </ul>
     </td>
   </tr>
