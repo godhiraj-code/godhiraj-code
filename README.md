@@ -77,7 +77,7 @@ Co-author of the **TDCT (Triangle-Density based Clustering Technique)** techniqu
 ---
 
 ## 🎖️ Recognition
-* **PyCoder's Weekly (#714):** [Waitless: Eliminate Flaky Tests](link)
+* **PyCoder's Weekly (#714):** [Waitless: Eliminate Flaky Tests](https://pycoders.com/issues/714)
 <!---
 godhiraj-code/godhiraj-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
