@@ -54,7 +54,7 @@ Please reach out or open a PR! Let's solve the most complex problems in automati
 
 ## ✍️ Latest Insights from [dhirajdas.dev](https://www.dhirajdas.dev)
 * [Pytest Mock llm - true fidelity - test AI workflow with 0 cost](https://www.dhirajdas.dev/blog/pytest-mockllm-true-fidelity)
-* [Eliminate Flaky Test in selenium](https://www.dhirajdas.dev/blog/waitless-eliminate-flaky-tests) [![PyCoder's Weekly](https://img.shields.io/badge/Featured%20in-PyCoder's%20Weekly-ffd43b?style=for-the-badge&logo=python&logoColor=3776ab)](https://pycoders.com/issues/714)
+* [Eliminate Flaky Test in selenium](https://www.dhirajdas.dev/blog/waitless-eliminate-flaky-tests) 
 * **[Stop Shipping "Zombie Tests": Introducing Project Vandal](https://www.dhirajdas.dev/blog/project-vandal)**
 * **[Why Your Selenium Tests Fail on AI Chatbots (And How to Fix It)](https://www.dhirajdas.dev/blog/selenium-ai-chatbots)**
 * **[Selenium Teleport: Skip Login Screens Forever](https://www.dhirajdas.dev/blog/selenium-teleport)**
@@ -73,6 +73,11 @@ Co-author of the **TDCT (Triangle-Density based Clustering Technique)** techniqu
 
 ---
 *Powered by code, curiosity, and an unhealthy amount of coffee. ☕*
+
+---
+
+## 🎖️ Recognition
+* **PyCoder's Weekly (#714):** [Waitless: Eliminate Flaky Tests](link)
 <!---
 godhiraj-code/godhiraj-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
