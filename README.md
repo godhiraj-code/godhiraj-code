@@ -82,8 +82,12 @@ Please reach out or open a PR! Let's solve the most complex problems in automati
 
 ---
 
-## 🔬 Research & Background
+### 🔬 Research & Background
+
 Co-author of the **TDCT (Triangle-Density based Clustering Technique)** technique for spatial data analysis. My background in algorithmic efficiency in spatial databases directly shapes the "Spatial Intelligence" I build into my automation tools today.
+
+* **The Methodology:** [How TDCT Algorithms Shape My Automation Flow](https://www.dhirajdas.dev/blog/algorithms-to-automation-tdct)
+* **Academic Profile:** [Dhiraj Das on ResearchGate](https://www.researchgate.net/profile/Dhiraj-Das-4)
 
 ---
 
