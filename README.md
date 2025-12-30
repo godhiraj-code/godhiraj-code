@@ -36,6 +36,9 @@ I have developed a suite of niche, open-source tools to solve the "untestable" p
 ### 📊 Observability
 * **[Pytest-Glow-Report](https://github.com/godhiraj-code/pytest-glow-report)**: Illuminated reporting that turns raw test data into actionable architectural insights.
 
+### 🌌 Autonomous Orchestration
+* **[CBA - Starlight Protocol](https://github.com/godhiraj-code/cba)**: The flagship "Constellation Based Automation" framework. Implements the Starlight Protocol to coordinate autonomous Sentinels for self-healing, semantic intent resolution, and resilience against UI entropy.
+
 ---
 
 ## 🤝 Collaboration & Open Source
