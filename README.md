@@ -79,15 +79,19 @@ Co-author of the **TDCT (Triangle-Density based Clustering Technique)** techniqu
 ## 🎖️ Recognition
 * **PyCoder's Weekly (#714):** [Waitless: Eliminate Flaky Tests](https://pycoders.com/issues/714)
 
+
 ---
-> **Waitless:** Tracked on [LibHunt](https://python.libhunt.com/waitless-alternatives)
-> **pytest-glow-report:** Tracked on [LibHunt](https://python.libhunt.com/pytest-glow-report-alternatives)
-> **pytest-mockllm:** Tracked on [LibHunt](https://python.libhunt.com/pytest-mockllm-alternatives)
-> **selenium-teleport:** Tracked on [LibHunt](https://python.libhunt.com/selenium-teleport-alternatives)
-> **stealthautomation:** Tracked on [LibHunt](https://python.libhunt.com/stealthautomation-alternatives)
-
-
-> **The Starlight Protocol (CBA):** Tracked on [LibHunt](https://js.libhunt.com/cba-alternatives) for cross-comparison with other automation frameworks.
+> **Waitless:** Tracked on [LibHunt](https://www.libhunt.com/godhiraj-code/waitless)
+>
+> **pytest-glow-report:** Tracked on [LibHunt](https://www.libhunt.com/godhiraj-code/pytest-glow-report)
+>
+> **pytest-mockllm:** Tracked on [LibHunt](https://www.libhunt.com/godhiraj-code/pytest-mockllm)
+>
+> **selenium-teleport:** Tracked on [LibHunt](https://www.libhunt.com/godhiraj-code/selenium-teleport)
+>
+> **stealthautomation:** Tracked on [LibHunt](https://www.libhunt.com/godhiraj-code/stealthautomation)
+>
+> **The Starlight Protocol (CBA):** Tracked on [LibHunt](https://www.libhunt.com/godhiraj-code/cba)
 <!---
 godhiraj-code/godhiraj-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
