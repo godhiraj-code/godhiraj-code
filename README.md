@@ -1,5 +1,26 @@
-# Hi, I'm Dhiraj Das 👋 ![profile_picture](https://github.com/user-attachments/assets/eb11bdf6-ffd0-482a-8385-8745338e5506)
-### Automation Solutions Architect | Intelligent Quality Engineering
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://github.com/user-attachments/assets/eb11bdf6-ffd0-482a-8385-8745338e5506" width="150" style="border-radius: 15px;" alt="Dhiraj Das">
+      <br />
+      <b>Dhiraj Das</b><br />
+      <sub>Automation Solutions Architect | Intelligent Quality Engineering</sub>
+    </td>
+    <td width="70%" valign="top">
+      <h1>Hi there, I'm Dhiraj 👋</h1>
+      <p>I build intelligent, deterministic systems to eliminate flaky automation.</p>
+      
+      <h3>🏆 Community Recognition</h3>
+      <ul>
+        <li><b>Waitless:</b> Featured in <a href="https://pycoders.com/issues/714">PyCoder's Weekly #714</a> & <a href="https://www.libhunt.com/r/waitless">LibHunt</a></li>
+        <li><b>pytest-mockllm:</b> Verified on <a href="https://www.libhunt.com/r/pytest-mockllm">LibHunt</a>
+        <li><b>stealthautomation:</b> Verified on <a href="https://www.libhunt.com/r/stealthautomation">LibHunt</a>
+        <li><b>selenium-teleport:</b> Verified on <a href="https://www.libhunt.com/r/selenium-teleport">LibHunt</a>
+        <li><b>Starlight Protocol:</b> The new standard for <a href="https://www.libhunt.com/r/cba">Constellation Baed Automation</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 "Why do manual work when you can design systems that do it for you?"
 
