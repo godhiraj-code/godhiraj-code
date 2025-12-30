@@ -1,7 +1,8 @@
-# Hi, I'm Dhiraj Das 👋
+# Hi, I'm Dhiraj Das 👋 ![profile_picture](https://github.com/user-attachments/assets/eb11bdf6-ffd0-482a-8385-8745338e5506)
 ### Automation Solutions Architect | Intelligent Quality Engineering
 
 "Why do manual work when you can design systems that do it for you?"
+
 
 I specialize in evolving traditional test automation into **Intelligent Quality Engineering**—merging Python and Local LLMs to solve the frustrations of flaky tests, bot detection, and manual overhead. With over a decade of experience in global enterprises, I build tools that don't just run scripts but understand the environment they operate in.
 
