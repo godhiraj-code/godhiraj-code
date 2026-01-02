@@ -27,7 +27,7 @@
 I specialize in evolving traditional test automation into **Intelligent Quality Engineering**—merging Python and Local LLMs to solve the frustrations of flaky tests, bot detection, and manual overhead. With over a decade of experience in global enterprises, I build tools that don't just run scripts but understand the environment they operate in.
 
 ---
-## 📖 The Automation Architect's Playbook (2025)
+## 📖 The Automation Architect's Playbook 
 **Mastering the Internals: From Browser Fundamentals to AI-Powered Testing**
 I've distilled a decade of architectural wins and battle-tested solutions into a comprehensive guide for modern automation engineers. This book explores the deep mechanics of browsers, the anatomy of flakiness, and the future of AI-driven testing.
 👉 **[Read the Book Online (Free)](https://godhiraj-code.github.io/TheAutomationArchitectPlaybook/)**
