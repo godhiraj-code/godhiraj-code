@@ -12,7 +12,7 @@
       <h3>🏆 Community Recognition</h3>
       <ul>
         <li><strong>Waitless:</strong> Featured in <a href="https://pycoders.com/issues/714">PyCoder's Weekly #714</a> & <a href="https://www.libhunt.com/r/godhiraj-code/waitless">LibHunt</a></li>
-        <li><strong>pytest-mockllm:</strong> Verified on <a href="https://www.libhunt.com/r/gofhiraj-code/pytest-mockllm">LibHunt</a> (Activity: <b>7.7</b>)</li>
+        <li><strong>pytest-mockllm:</strong> Verified on <a href="https://www.libhunt.com/r/godhiraj-code/pytest-mockllm">LibHunt</a> (Activity: <b>7.7</b>)</li>
         <li><strong>stealthautomation:</strong> Verified on <a href="https://www.libhunt.com/r/godhiraj-code/stealthautomation">LibHunt</a> (Activity: 6.1)</li>
         <li><strong>selenium-teleport:</strong> Verified on <a href="https://www.libhunt.com/r/godhiraj-code/selenium-teleport">LibHunt</a> (Activity: 4.5)</li>
         <li><strong>Starlight Protocol (CBA):</strong> The standard for <a href="https://www.libhunt.com/r/godhiraj-code/cba">Constellation Based Automation</a></li>
