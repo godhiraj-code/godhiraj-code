@@ -34,7 +34,7 @@ I've distilled a decade of architectural wins and battle-tested solutions into a
 ---
 
 ## 🛠️ The Specialized Arsenal
-I have developed a suite of niche, open-source tools to solve the "untestable" problems in modern web architecture.
+Also developed a suite of niche, open-source tools to solve the "untestable" problems in modern web architecture. Hope something among the below will be of some use for you or your team.
 
 ### 🎯 Stability & Resilience
 * **[Waitless](https://github.com/godhiraj-code/waitless)**: The ultimate flaky test eliminator. Uses mutation-based quiescence to ensure the UI is truly ready.
