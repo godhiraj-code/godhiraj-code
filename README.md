@@ -33,6 +33,17 @@ I've distilled a decade of architectural wins and battle-tested solutions into a
 👉 **[Read the Book Online (Free)](https://godhiraj-code.github.io/TheAutomationArchitectPlaybook/)**
 ---
 
+
+---
+
+## 🌌 Flagship Ambitious Project: The Starlight Protocol
+> **Moving from "Ground-Looking" Automation to "Constellation-Based" Orchestration.**
+> Starlight implements **CBA**, a framework where autonomous Sentinels (Janitors, Vision, Pulse, PII, Data, etc) self-heal the environment in real-time.
+
+[Explore Starlight →](https://github.com/godhiraj-code/cba) | [Read the Spec →](https://starlight-protocol.github.io/starlight/)
+
+---
+
 ## 🛠️ The Specialized Arsenal
 Also developed a suite of niche, open-source tools to solve the "untestable" problems in modern web architecture. Hope something among the below will be of some use for you or your team.
 
@@ -74,6 +85,7 @@ Please reach out or open a PR! Let's solve the most complex problems in automati
 ---
 
 ## ✍️ Latest Insights from [dhirajdas.dev](https://www.dhirajdas.dev)
+* [Starlight Protocol: Resilient browser automation through autonomous Sentinel coordination](https://www.dhirajdas.dev/blog/starlight-part-5-protocol-specification)
 * [Pytest Mock llm - true fidelity - test AI workflow with 0 cost](https://www.dhirajdas.dev/blog/pytest-mockllm-true-fidelity)
 * [Eliminate Flaky Test in selenium](https://www.dhirajdas.dev/blog/waitless-eliminate-flaky-tests) 
 * **[Stop Shipping "Zombie Tests": Introducing Project Vandal](https://www.dhirajdas.dev/blog/project-vandal)**
