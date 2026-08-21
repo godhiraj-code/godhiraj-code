@@ -12,7 +12,7 @@
       <h3>📈 Proof, not promises</h3>
       <ul>
         <li><strong>Waitless</strong> featured in <a href="https://pycoders.com/issues/714">PyCoder's Weekly #714</a></li>
-        <li><strong>2,200+ monthly PyPI installs</strong> across my test-tooling packages</li>
+        <li><strong>2,200+ monthly PyPI downloads</strong> across my test-tooling packages</li>
         <li>Co-author of <a href="https://www.researchgate.net/profile/Dhiraj-Das-4">TDCT spatial clustering research</a></li>
       </ul>
     </td>
