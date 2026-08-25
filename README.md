@@ -26,7 +26,7 @@ With over a decade in global enterprise automation, I evolve traditional test en
 
 ---
 
-## 🚀 Featured Tools (real users, real downloads)
+## Featured Tools 
 
 ### [Waitless](https://github.com/godhiraj-code/waitless) · 1,000+ installs/mo
 The flaky-test eliminator. Mutation-based quiescence proves your UI is truly ready before assertions run.
