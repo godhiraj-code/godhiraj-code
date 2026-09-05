@@ -1,98 +1,75 @@
-<table>
-  <tr>
-    <td width="30%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/eb11bdf6-ffd0-482a-8385-8745338e5506" width="160" style="border-radius: 15px;" alt="Dhiraj Das">
-      <br /><br />
-      <strong>Dhiraj Das</strong><br />
-      <sub>Automation Solutions Architect | Test Reliability & AI Quality Engineering</sub>
-    </td>
-    <td width="70%" valign="top">
-      <h1>Hi there, I'm Dhiraj 👋</h1>
-      <p>I build open-source Python tools that make flaky tests, bot walls, and untestable AI features <strong>deterministic</strong>.</p>
-      <h3>📈 Proof, not promises</h3>
-      <ul>
-        <li><strong>Waitless</strong> featured in <a href="https://pycoders.com/issues/714">PyCoder's Weekly #714</a></li>
-        <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Eliminate Flaky Tests in Selenium <a href="https://t.co/fm5X6vZhfB">https://t.co/fm5X6vZhfB</a></p>&mdash; PyCoder’s Weekly (@pycoders) <a href="https://x.com/pycoders/status/2003512432006750668?ref_src=twsrc%5Etfw">December 23, 2025</a></blockquote>
-        <li><strong>2,200+ monthly PyPI downloads</strong> across my test-tooling packages</li>
-        <li>Co-author of <a href="https://www.researchgate.net/profile/Dhiraj-Das-4">TDCT spatial clustering research</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+# Dhiraj Das
 
-"Why do manual work when you can design systems that do it for you?"
+**Automation architecture · Python engineering · Agent reliability**
 
-With over a decade in global enterprise automation, I evolve traditional test engineering into **Intelligent Quality Engineering**: Python plus local LLMs, solving flakiness, bot detection, and the new problem space of testing AI-driven features.
+I’m an automation consultant with over a decade of experience across web, mobile, APIs, and enterprise workflows. I design test architectures, diagnose difficult failures, and build tools that make engineering decisions easier to verify.
 
----
+My current work brings that discipline to AI agents: capture what happened, check the outcome, and make failures understandable.
 
-## Featured Tools 
+[Portfolio & experience](https://www.dhirajdas.dev) · [The Automation Architect’s Playbook](https://www.dhirajdas.dev/automation-book) · [LinkedIn](https://www.linkedin.com/in/dhiraj-das-614509168)
 
-### [Waitless](https://github.com/godhiraj-code/waitless) · 1,000+ installs/mo
-The flaky-test eliminator. Mutation-based quiescence proves your UI is truly ready before assertions run.
-`pip install waitless` · [PyPI](https://pypi.org/project/waitless/) · [Why it works](https://www.dhirajdas.dev/blog/waitless-eliminate-flaky-tests)
+## What I work on
 
-### [pytest-glow-report](https://github.com/godhiraj-code/pytest-glow-report) · 700+ installs/mo
-Interactive HTML dashboards for pytest that capture setup, call, and teardown failures honestly.
-`pip install pytest-glow-report` · [PyPI](https://pypi.org/project/pytest-glow-report/) · [Sample reports](https://www.dhirajdas.dev/project/pytest-glow-report)
+- **Automation architecture:** framework design, browser and API testing, mobile automation, and CI delivery.
+- **Failure diagnosis:** UI stability signals, visual comparisons, test reports, and reproducible evidence.
+- **Agent reliability:** controlled LLM tests, execution records, explicit agent contracts, and outcome verification.
 
-### [pytest-mockllm](https://github.com/godhiraj-code/pytest-mockllm) · 475+ installs/mo
-Deterministic LLM mocks for OpenAI and Anthropic with official typed SDK objects, streaming, error budgets, and proven zero network egress.
-`pip install "pytest-mockllm[openai]"` · [PyPI](https://pypi.org/project/pytest-mockllm/) · [True-fidelity testing](https://www.dhirajdas.dev/blog/pytest-mockllm-true-fidelity)
+## Selected engineering work
 
-### [SB Stealth Wrapper](https://github.com/godhiraj-code/stealthautomation)
-Plug-and-play SeleniumBase UC Mode wrapper for testing behind Cloudflare, Turnstile, and heavy fingerprinting.
-`pip install sb-stealth-wrapper` · [PyPI](https://pypi.org/project/sb-stealth-wrapper/)
+### [Waitless](https://github.com/godhiraj-code/waitless)
 
----
+Reduce timing-related Selenium failures with configurable UI stability checks and diagnostics. Application-specific assertions still decide whether the outcome is correct.
 
-## 🛠️ The Wider Arsenal
+`pip install waitless` · [Technical walkthrough](https://www.dhirajdas.dev/blog/waitless-eliminate-flaky-tests)
 
-| Tool | What it solves |
-|---|---|
-| [Selenium Teleport](https://github.com/godhiraj-code/selenium-teleport) | Skip login screens forever by teleporting sessions between contexts |
-| [Project Vandal](https://github.com/godhiraj-code/vandal) | UI mutation testing: does your suite catch real regressions? |
-| [Lumos ShadowDOM](https://github.com/godhiraj-code/lumos-shadowdom) | Automate closed Shadow DOM elements in Selenium |
-| [Visual Sonar](https://github.com/godhiraj-code/wvdautomation) | Spatial mapping for Canvas/WebGL in selector-less UIs |
-| [Visual Guard](https://github.com/godhiraj-code/visual-guard) | Visual regression detection beyond DOM assertions |
-| [Selenium Chatbot Test](https://github.com/godhiraj-code/selenium-chatbot-test) | Testing streaming GenAI chat interfaces |
-| [playwright-stream-monitor](https://github.com/godhiraj-code/playwright-stream-monitor) | Validate SSE and streaming LLM responses in Playwright |
-| [Agent Blackbox](https://github.com/godhiraj-code/agent-blackbox) | Local-first flight recorder for AI coding agents |
+### [pytest-mockllm](https://github.com/godhiraj-code/pytest-mockllm)
 
----
+Fixture-scoped mocks for supported LLM SDK calls, including typed responses, streaming scenarios, and repeatable failures. Active fixtures intercept supported calls; installing the plugin alone does not block network access.
 
-## 🌌 The Starlight Protocol
+`pip install "pytest-mockllm[openai]"` · [Testing boundaries](https://www.dhirajdas.dev/blog/pytest-mockllm-true-fidelity)
 
-An open protocol for routing intent to autonomous Sentinels: self-healing browser automation coordinated over JSON-RPC. JavaScript reference implementation, hardened alpha.
+### [pytest-glow-report](https://github.com/godhiraj-code/pytest-glow-report)
 
-[Protocol spec](https://starlight-protocol.github.io/starlight/) · [Organization](https://github.com/starlight-protocol)
+HTML reports for pytest and unittest with test-phase results, step details, and screenshot evidence to help investigate failures.
 
----
+`pip install pytest-glow-report` · [Project walkthrough](https://www.dhirajdas.dev/project/pytest-glow-report)
 
-## 📖 The Automation Architect's Playbook
+### [Selenium Teleport](https://github.com/godhiraj-code/selenium-teleport)
 
-A free online book distilling a decade of architectural wins: browser internals, the anatomy of flakiness, and AI-driven testing.
+Save and restore current-origin cookies and web storage, with optional encryption and explicit restore validation. Session reuse complements dedicated login tests.
 
-👉 **[Read the Book Online](https://godhiraj-code.github.io/TheAutomationArchitectPlaybook/)**
+`pip install selenium-teleport` · [Session reuse guide](https://www.dhirajdas.dev/blog/selenium-teleport-v2-security)
 
----
+## Starlight Protocol
 
-## ✍️ Latest from [dhirajdas.dev](https://www.dhirajdas.dev)
+**A general-purpose agent platform for turning goals into inspectable outcomes.**
 
-* [Starlight Protocol: resilient browser automation through autonomous Sentinel coordination](https://www.dhirajdas.dev/blog/starlight-part-5-protocol-specification)
-* [pytest-mockllm: true fidelity, test AI workflows at zero cost](https://www.dhirajdas.dev/blog/pytest-mockllm-true-fidelity)
-* [Eliminate flaky tests in Selenium](https://www.dhirajdas.dev/blog/waitless-eliminate-flaky-tests)
-* [Stop shipping zombie tests: introducing Project Vandal](https://www.dhirajdas.dev/blog/project-vandal-ui-mutation-testing)
-* [Testing GenAI chatbots with Selenium](https://www.dhirajdas.dev/blog/testing-genai-chatbots-selenium)
-* [Selenium Teleport: skip login screens forever](https://www.dhirajdas.dev/blog/selenium-teleport)
-* [How TDCT algorithms shape my automation flow](https://www.dhirajdas.dev/blog/algorithms-to-automation-tdct)
+Starlight coordinates domain agents working with code, data, APIs, browsers, devices, or language models. It bounds mission execution and returns reports with agent identity, attempts, results, and evidence. Agents own their domain logic and outcome checks.
 
----
+The current **5.x alpha** includes a Node.js 22+ runtime, local CLI, and authenticated remote-agent protocol. A browser or model provider is not required. The earlier browser-specific implementation is legacy.
 
-## ⚡ Connect
+[Repository](https://github.com/starlight-protocol/starlight) · [Demo & documentation](https://starlight-protocol.github.io/starlight/) · [Start with the architecture](https://www.dhirajdas.dev/blog/constellation-based-automation-starlight-protocol)
 
-- **Website:** [dhirajdas.dev](https://www.dhirajdas.dev)
-- **LinkedIn:** [Dhiraj Das](https://www.linkedin.com/in/dhiraj-das-614509168)
+## More tools
 
----
-*Powered by code, curiosity, and an unhealthy amount of coffee. ☕*
+- [Agent Blackbox](https://github.com/godhiraj-code/agent-blackbox): a local-first flight recorder and CI diagnostic gate for AI-agent runs.
+- [Project Vandal](https://github.com/godhiraj-code/vandal): runtime UI mutation testing for Playwright to check whether tests catch regressions.
+- [Visual Guard](https://github.com/godhiraj-code/visual-guard): screenshot baselines, visual comparisons, region masking, and reviewable differences.
+- [SB Stealth Wrapper](https://github.com/godhiraj-code/stealthautomation): a SeleniumBase UC Mode reliability wrapper for authorized testing, with bounded recovery and explicit failures.
+- [Visual Sonar](https://github.com/godhiraj-code/wvdautomation): computer-vision automation for WVD and Citrix environments without DOM access.
+
+[Explore the full portfolio](https://www.dhirajdas.dev/#projects)
+
+## Writing and research
+
+- **[The Automation Architect’s Playbook](https://www.dhirajdas.dev/automation-book):** a free guide to framework design, browser internals, failure analysis, and AI-assisted testing.
+- My writing on Waitless was featured in **[PyCoder’s Weekly #714](https://pycoders.com/issues/714)**.
+- My background includes **[published research in spatial clustering](https://www.researchgate.net/profile/Dhiraj-Das-4)**, which informs how I approach algorithms and automation design.
+
+[Read the engineering articles](https://www.dhirajdas.dev/blog)
+
+## Discuss an engineering challenge
+
+Working through an unreliable test suite, an automation architecture decision, or an AI-agent workflow that needs better evidence?
+
+[Share your challenge](https://www.dhirajdas.dev/#contact) · [Connect on LinkedIn](https://www.linkedin.com/in/dhiraj-das-614509168)
