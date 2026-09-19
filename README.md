@@ -16,6 +16,20 @@ My current work brings that discipline to AI agents: capture what happened, chec
 
 ## Selected engineering work
 
+### [Agent Safety Doctor](https://github.com/godhiraj-code/agent-safety-doctor)
+
+An early alpha, local-first scanner for AI coding-agent workspaces. It flags
+obvious secret exposure, risky command paths, broad tool access, and missing
+approval or rollback documentation, then produces redacted Markdown, JSON, or
+HTML evidence. It is a first-pass operational review—not a penetration test,
+compliance audit, SAST engine, or guarantee of agent safety.
+
+### [pytest-why](https://github.com/godhiraj-code/pytest-why)
+
+An early alpha pytest plugin that uses local, deterministic rules to classify
+common failures and produce concise explanations plus Markdown and HTML reports.
+It runs only when requested with `--why` and does not depend on an AI service.
+
 ### [Waitless](https://github.com/godhiraj-code/waitless)
 
 Reduce timing-related Selenium failures with configurable UI stability checks and diagnostics. Application-specific assertions still decide whether the outcome is correct.
