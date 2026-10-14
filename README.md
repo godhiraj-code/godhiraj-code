@@ -16,6 +16,15 @@ My current work brings that discipline to AI agents: capture what happened, chec
 
 ## Selected engineering work
 
+### [GreenBuild](https://x.ai/bot/Y4m1o1g_TWG5he7mG1ZHb)
+
+A custom Grok bot I created for testers and development teams. It helps turn requirements into test plans, investigate flaky tests, review Playwright, Selenium and Appium code, draft bug reports, and discuss release risks.
+
+I evaluated it across six real-world QA scenarios. Its recommendations and generated code still require engineering review and execution checks; it is not an autonomous release approval gate.
+
+[Try GreenBuild on Grok](https://x.ai/bot/Y4m1o1g_TWG5he7mG1ZHb)
+
+
 ### [Agent Safety Doctor](https://github.com/godhiraj-code/agent-safety-doctor)
 
 An early alpha, local-first scanner for AI coding-agent workspaces. It flags
