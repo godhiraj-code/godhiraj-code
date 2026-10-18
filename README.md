@@ -25,19 +25,22 @@ I evaluated it across six real-world QA scenarios. Its recommendations and gener
 [Try GreenBuild on Grok](https://x.ai/bot/Y4m1o1g_TWG5he7mG1ZHb)
 
 
-### [Agent Safety Doctor](https://github.com/godhiraj-code/agent-safety-doctor)
+### [Hermes DoctorPack](https://github.com/godhiraj-code/hermes-doctorpack)
 
-An early alpha, local-first scanner for AI coding-agent workspaces. It flags
-obvious secret exposure, risky command paths, broad tool access, and missing
-approval or rollback documentation, then produces redacted Markdown, JSON, or
-HTML evidence. It is a first-pass operational review—not a penetration test,
-compliance audit, SAST engine, or guarantee of agent safety.
+Local-first diagnostics, plugin health checks, safety signals, and incident
+postmortems for Hermes Agent, listed in the official Hermes plugin catalog. It
+correlates config, plugin state, and logs into redacted `ok`/`warn`/`fail`/`unknown`
+findings with concrete recommendations. Missing evidence is reported as unknown,
+and log keywords are treated as evidence, not root cause.
 
-### [pytest-why](https://github.com/godhiraj-code/pytest-why)
+### [SB Stealth Wrapper](https://github.com/godhiraj-code/stealthautomation)
 
-An early alpha pytest plugin that uses local, deterministic rules to classify
-common failures and produce concise explanations plus Markdown and HTML reports.
-It runs only when requested with `--why` and does not depend on an AI service.
+A reliability wrapper around SeleniumBase UC Mode for authorized browser testing on
+applications with modern bot defenses. It standardizes browser setup, bounded
+challenge recovery, fallback clicks, and screenshots, and raises explicit errors
+instead of silently continuing. It does not make automation undetectable.
+
+`pip install sb-stealth-wrapper`
 
 ### [Waitless](https://github.com/godhiraj-code/waitless)
 
@@ -75,11 +78,11 @@ The current **5.x alpha** includes a Node.js 22+ runtime, local CLI, and authent
 
 ## More tools
 
+- [pytest-why](https://github.com/godhiraj-code/pytest-why): a pytest plugin that classifies common failures with local, deterministic rules and writes concise explanations.
+- [Agent Safety Doctor](https://github.com/godhiraj-code/agent-safety-doctor): an early alpha, local-first scanner for AI coding-agent workspaces with redacted evidence reports.
 - [Agent Blackbox](https://github.com/godhiraj-code/agent-blackbox): a local-first flight recorder and CI diagnostic gate for AI-agent runs.
-- [Hermes DoctorPack](https://github.com/godhiraj-code/hermes-doctorpack): local-first diagnostics, safety audit, and incident postmortems for Hermes Agent, listed in the official Hermes plugin catalog.
 - [Project Vandal](https://github.com/godhiraj-code/vandal): runtime UI mutation testing for Playwright to check whether tests catch regressions.
 - [Visual Guard](https://github.com/godhiraj-code/visual-guard): screenshot baselines, visual comparisons, region masking, and reviewable differences.
-- [SB Stealth Wrapper](https://github.com/godhiraj-code/stealthautomation): a SeleniumBase UC Mode reliability wrapper for authorized testing, with bounded recovery and explicit failures.
 - [Visual Sonar](https://github.com/godhiraj-code/wvdautomation): computer-vision automation for WVD and Citrix environments without DOM access.
 
 [Explore the full portfolio](https://www.dhirajdas.dev/#projects)
