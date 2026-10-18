@@ -76,6 +76,7 @@ The current **5.x alpha** includes a Node.js 22+ runtime, local CLI, and authent
 ## More tools
 
 - [Agent Blackbox](https://github.com/godhiraj-code/agent-blackbox): a local-first flight recorder and CI diagnostic gate for AI-agent runs.
+- [Hermes DoctorPack](https://github.com/godhiraj-code/hermes-doctorpack): local-first diagnostics, safety audit, and incident postmortems for Hermes Agent, listed in the official Hermes plugin catalog.
 - [Project Vandal](https://github.com/godhiraj-code/vandal): runtime UI mutation testing for Playwright to check whether tests catch regressions.
 - [Visual Guard](https://github.com/godhiraj-code/visual-guard): screenshot baselines, visual comparisons, region masking, and reviewable differences.
 - [SB Stealth Wrapper](https://github.com/godhiraj-code/stealthautomation): a SeleniumBase UC Mode reliability wrapper for authorized testing, with bounded recovery and explicit failures.
