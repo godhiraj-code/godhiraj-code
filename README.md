@@ -74,7 +74,7 @@ Starlight coordinates domain agents working with code, data, APIs, browsers, dev
 
 The current **5.x alpha** includes a Node.js 22+ runtime, local CLI, and authenticated remote-agent protocol. A browser or model provider is not required. The earlier browser-specific implementation is legacy.
 
-[Repository](https://github.com/starlight-protocol/starlight) · [Demo & documentation](https://starlight-protocol.github.io/starlight/) · [Start with the architecture](https://www.dhirajdas.dev/blog/constellation-based-automation-starlight-protocol)
+[Repository](https://github.com/starlight-protocol/starlight) · [Demo & documentation](https://starlight-protocol.github.io/starlight/) · [Start with the architecture](https://www.dhirajdas.dev/blog/constellation-based-automation-starlight-protocol) · [Selected for XERJ Corpus Hub](https://hub.xerj.org/contributors/godhiraj-code)
 
 ## More tools
 
@@ -91,6 +91,7 @@ The current **5.x alpha** includes a Node.js 22+ runtime, local CLI, and authent
 
 - **[The Automation Architect’s Playbook](https://www.dhirajdas.dev/automation-book):** a free guide to framework design, browser internals, failure analysis, and AI-assisted testing.
 - My writing on Waitless was featured in **[PyCoder’s Weekly #714](https://pycoders.com/issues/714)**.
+- My work on Starlight was selected for the **[XERJ Corpus Hub](https://hub.xerj.org/contributors/godhiraj-code)**, a reference library that AI coding agents search for worked examples.
 - My background includes **[published research in spatial clustering](https://www.researchgate.net/profile/Dhiraj-Das-4)**, which informs how I approach algorithms and automation design.
 
 [Read the engineering articles](https://www.dhirajdas.dev/blog)
